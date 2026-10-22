@@ -27,7 +27,7 @@ font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']
 })
-say('Powered By GataDios', {
+say('Powered By ANGELOFCDEV', {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']
